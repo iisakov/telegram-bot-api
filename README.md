@@ -1,4 +1,4 @@
-# Framework tg_bot (2024.05.24:1.0.0)
+# Framework tg_bot (2024.06.04:1.0.1)
 fork: Golang bindings for the Telegram Bot API 
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/go-telegram-bot-api/telegram-bot-api/v5.svg)](https://pkg.go.dev/github.com/go-telegram-bot-api/telegram-bot-api/v5)
